@@ -17,7 +17,7 @@ settings:
 monitors:
   - id: petpet # unique identifier
     name: pet.wavycat.ru
-    description: 'PetPet service' # default=empty
+    #description: 'PetPet service' # default=empty
     url: 'https://pet.wavycat.ru/' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
